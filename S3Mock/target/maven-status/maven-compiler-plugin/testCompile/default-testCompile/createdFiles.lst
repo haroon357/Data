@@ -1,0 +1,7 @@
+com\adobe\testing\s3mock\domain\FileStoreTest.class
+com\adobe\testing\s3mock\its\AmazonClientUploadIT$1.class
+com\adobe\testing\s3mock\RangeConverterTest.class
+com\adobe\testing\s3mock\domain\ObjectRefTest.class
+com\adobe\testing\s3mock\its\AmazonClientUploadIT.class
+com\adobe\testing\s3mock\S3MockRuleTest.class
+com\adobe\testing\s3mock\its\AmazonClientUploadIT$2.class

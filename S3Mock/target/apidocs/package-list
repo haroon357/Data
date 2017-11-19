@@ -1,0 +1,4 @@
+com.adobe.testing.s3mock
+com.adobe.testing.s3mock.domain
+com.adobe.testing.s3mock.dto
+com.adobe.testing.s3mock.util
